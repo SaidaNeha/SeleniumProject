@@ -12,6 +12,7 @@ Push the code to github.com
 Git repo - ReadMe.md a Screen shot of allure."
 
 Selenium Project #2
+
 open the url - https://katalon-demo-cura.herokuapp.com/
 click on the make appoinment button
 verify that url changes - assert
